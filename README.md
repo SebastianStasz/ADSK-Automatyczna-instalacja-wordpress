@@ -83,3 +83,7 @@ Naszym celem jest zainstalowanie i skonfigurowanie wszystkich niezbędnych rzecz
    3. DB_PASSWORD - haslo
    4. DB_HOST - localhost
 9. Instalacja pakietów: "sudo yum install php74-php-mysqlnd php74-php-pecl-mysql"
+
+##### Screen z działającego bloga
+
+<img src="https://github.com/SebastianStasz/ADSK-Automatyczna-instalacja-wordpress/blob/main/wordpress.png">
